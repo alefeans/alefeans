@@ -34,9 +34,6 @@ Talk with me about Software Engineering topics, Functional Programming and Maths
   <a href="https://medium.com/@alefeans/">
     <img alt="Medium @alefeans" src="https://img.shields.io/badge/Álefe_Silva-black?&logo=Medium&logoColor=white&style=for-the-badge&link=https://medium.com/@alefeans/" />
   </a>
-  <a href="https://medium.com/@alefeans/">
-    <img alt="Medium @alefeans" src="https://img.shields.io/badge/Álefe_Silva-black?&logo=Medium&logoColor=white&style=for-the-badge&link=https://medium.com/@alefeans/" />
-  </a>
   <a href="mailto:alefeans@gmail.com">
     <img alt="Gmail alefeans@gmail.com" src="https://img.shields.io/badge/alefeans@gmail.com-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:alefeans@gmail.com" />
   </a>
