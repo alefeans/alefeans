@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi there!
 
-<!--
-**alefeans/alefeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Álefe (א)**, a Softwaree Engineer passionate about almost everything related to technlogy 👨‍💻
 
-Here are some ideas to get you started:
+I’m the maintainer of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and author of the "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talk with me about Software Engineering topics, Functional Programming and Maths _**λ**_ 
+
+---
+[![Github Status](https://github-readme-stats.vercel.app/api?username=alefeans&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alefeans&hide=html&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=clojure,py,ts,react,nodejs,graphql,vscode,docker,kubernetes,aws,linux&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alefe-da-silva/">
+    <img alt="Linkedin Alefe Silva" src="https://img.shields.io/badge/Álefe_Silva-blue?&logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/alefe-da-silva/" />
+  </a>
+  <a href="https://medium.com/@alefeans/">
+    <img alt="Medium @alefeans" src="https://img.shields.io/badge/Álefe_Silva-black?&logo=Medium&logoColor=white&style=for-the-badge&link=https://medium.com/@alefeans/" />
+  </a>
+  <a href="https://medium.com/@alefeans/">
+    <img alt="Medium @alefeans" src="https://img.shields.io/badge/Álefe_Silva-black?&logo=Medium&logoColor=white&style=for-the-badge&link=https://medium.com/@alefeans/" />
+  </a>
+  <a href="mailto:alefeans@gmail.com">
+    <img alt="Gmail alefeans@gmail.com" src="https://img.shields.io/badge/alefeans@gmail.com-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:alefeans@gmail.com" />
+  </a>
+  <a href="https://github.com/alefeans">
+    <img alt="Github @alefeans" src="https://img.shields.io/github/followers/alefeans?label=follow&style=for-the-badge" />
+  </a>
+</p>
