@@ -1,6 +1,6 @@
 ## Hi there!
 
-**I'm Álefe (א)**, a Software Engineer passionate about everything related to technology 👨‍💻
+**I'm Álefe (א)**, a Software Engineer passionate about technology and music 👨‍💻🥁
 
 I’m the maintainer of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and author of the "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
 
