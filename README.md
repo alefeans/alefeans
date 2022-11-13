@@ -4,7 +4,7 @@
 
 I’m the maintainer of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and author of the "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
 
-Talk with me about anything related to Software Engineering and Music 🖥️ 🌐 🎼
+Talk with me about anything related to Software Engineering 🖥️, Music 🥁🎼, Traveling ✈️ and Lifestyle 🏋
 
 ---
 <!-- [![Github Status](https://github-readme-stats.vercel.app/api?username=alefeans&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
