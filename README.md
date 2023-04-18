@@ -1,6 +1,6 @@
 ## Hi there!
 
-**I'm Álefe (א)**, a Software Engineer passionate about coding and learning new technologies; interested in Functional Programming, Maths, and Software Architecture Design 👨‍💻
+**I'm Álefe (א)**, a Software Engineer passionate about coding and learning new technologies; interested in Functional Programming, TDD, System Design, Clean Code, and much more👨‍💻; Currently learning Go. 
 
 I’m the maintainer of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and author of the "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
 
@@ -23,7 +23,7 @@ Talk with me about anything related to Software Engineering 🖥️, Music 🥁�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=clojure,py,ts,js,react,nodejs,graphql,vscode,docker,kubernetes,aws,linux&theme=dark" />
+    <img src="https://skills.thijs.gg/icons?i=clojure,py,js,ts,go,react,nodejs,graphql,vscode,docker,kubernetes,aws,linux&theme=dark" />
   </a>
 </p>
 
