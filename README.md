@@ -1,6 +1,6 @@
 ## Hi there!
 
-**I'm Álefe (א)**, a Software Engineer passionate about coding and learning new technologies; interested in Functional Programming, TDD, System Design, Clean Code, and much more. 
+**I'm Álefe (א)**, a Software Engineer passionate about learning new things; interested in Functional Programming, TDD, System Design, Clean Code, and much more. 
 
 I’m the maintainer of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and author of the "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
 
