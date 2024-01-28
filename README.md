@@ -23,7 +23,7 @@ Talk with me about anything related to Software Engineering 🖥️, Music 🥁,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=py,go,clojure,js,ts,react,fastapi,postgres,vscode,docker,kubernetes,aws,linux&theme=dark" />
+    <img src="https://skills.thijs.gg/icons?i=go,py,js,ts,clojure,react,postgres,mongo,kafka,vscode,docker,kubernetes,aws,linux&theme=dark" />
   </a>
 </p>
 
