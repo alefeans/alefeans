@@ -1,6 +1,6 @@
 ## Hi there!  
 
-**I'm Álefe (א)**, a Software Engineer passionate about learning and exploring new ideas. My interests include Computer Science, AI, Mathematics, Cyber Security, and much more.  
+**I'm Álefe (א)**, a Software Engineer passionate about learning and exploring new ideas. Mainly interested in Software Engineering, AI, Mathematics, and Cyber Security.  
 
 While you're here, feel free to explore my projects and check out my articles [here](https://alefeans.medium.com/) 🚀  
 
