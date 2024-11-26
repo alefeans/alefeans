@@ -1,10 +1,8 @@
-## Hi there!
+## Hi there!  
 
-**I'm Álefe (א)**, a Software Engineer passionate about learning new things; interested in System Design, DSA, TDD, Clean Code, and much more. 
+**I'm Álefe (א)**, a Software Engineer passionate about learning and exploring new ideas. My interests include Computer Science, AI, Mathematics, Cyber Security, and much more.  
 
-I’m the author of the Open Source project “[Elastic Stack for Beginners](https://github.com/alefeans/elastic-stack)” and "[Clojure in Practice](https://alefeans.medium.com/)" article series for Portuguese speakers 🚀
-
-Talk with me about anything related to Software Engineering 🖥️, Music 🥁, Traveling ✈️ and Lifestyle 🏋
+While you're here, feel free to explore my projects and check out my articles [here](https://alefeans.medium.com/) 🚀  
 
 ---
 <!-- [![Github Status](https://github-readme-stats.vercel.app/api?username=alefeans&theme=dracula&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
